@@ -1,0 +1,40 @@
+{
+  "OrderHeaders": [
+    {
+      "Id": "1",
+      "ApplicationUserId": "1",
+      "OrderDate": "2024-10-01T10:00:00Z",
+      "ShippingDate": "2024-10-03T10:00:00Z",
+      "TotalPrice": 1200.0,
+      "OrderStatus": "Shipped",
+      "PaymentStatus": "Paid",
+      "TrackingNumber": "TRACK123456",
+      "Carrier": "DHL",
+      "PaymentDate": "2024-09-30T10:00:00Z",
+      "SessionId": "session123",
+      "PaymentIntentId": "intent123",
+      "Name": "Omar Abdelaziz",
+      "Address": "123 Main St",
+      "City": "Cairo",
+      "PhoneNumber": "+201234567890"
+    },
+    {
+      "Id": "2",
+      "ApplicationUserId": "2",
+      "OrderDate": "2024-10-02T12:30:00Z",
+      "ShippingDate": "2024-10-04T12:30:00Z",
+      "TotalPrice": 800.0,
+      "OrderStatus": "Processing",
+      "PaymentStatus": "Pending",
+      "TrackingNumber": null,
+      "Carrier": null,
+      "PaymentDate": null,
+      "SessionId": "session456",
+      "PaymentIntentId": "intent456",
+      "Name": "Layla Mostafa",
+      "Address": "456 Elm St",
+      "City": "Cairo",
+      "PhoneNumber": "+201098765432"
+    }
+  ]
+}

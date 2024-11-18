@@ -1,0 +1,44 @@
+{
+  "Products": [
+    {
+      "Id": "1",
+      "Name": "Laptop XYZ",
+      "Description": "High-performance laptop for gaming and professional use.",
+      "Img": "laptop_xyz.jpg",
+      "Price": 1200.0,
+      "CategoryId": "1"
+    },
+    {
+      "Id": "2",
+      "Name": "Smartphone ABC",
+      "Description": "Latest smartphone with cutting-edge technology.",
+      "Img": "smartphone_abc.jpg",
+      "Price": 800.0,
+      "CategoryId": "2"
+    },
+    {
+      "Id": "3",
+      "Name": "Wireless Headphones",
+      "Description": "Noise-cancelling headphones for immersive sound.",
+      "Img": "headphones.jpg",
+      "Price": 250.0,
+      "CategoryId": "3"
+    },
+    {
+      "Id": "4",
+      "Name": "4K Monitor",
+      "Description": "High-definition monitor for detailed visuals.",
+      "Img": "monitor_4k.jpg",
+      "Price": 600.0,
+      "CategoryId": "4"
+    },
+    {
+      "Id": "5",
+      "Name": "Gaming Mouse",
+      "Description": "Ergonomic mouse designed for gaming enthusiasts.",
+      "Img": "gaming_mouse.jpg",
+      "Price": 100.0,
+      "CategoryId": "5"
+    }
+  ]
+}

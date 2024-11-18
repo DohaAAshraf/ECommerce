@@ -1,0 +1,16 @@
+{
+  "ShoppingCarts": [
+    {
+      "Id": "1",
+      "ProductId": "1",
+      "Count": 1,
+      "ApplicationUserId": "1"
+    },
+    {
+      "Id": "2",
+      "ProductId": "3",
+      "Count": 2,
+      "ApplicationUserId": "2"
+    }
+  ]
+}

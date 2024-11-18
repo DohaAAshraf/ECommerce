@@ -1,0 +1,18 @@
+{
+  "OrderDetails": [
+    {
+      "Id": "1",
+      "OrderHeaderId": "1",
+      "ProductId": "1",
+      "Price": 1200.0,
+      "Count": 1
+    },
+    {
+      "Id": "2",
+      "OrderHeaderId": "2",
+      "ProductId": "2",
+      "Price": 800.0,
+      "Count": 1
+    }
+  ]
+}

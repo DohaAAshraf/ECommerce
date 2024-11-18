@@ -1,0 +1,46 @@
+{
+  "AspNetUsers": [
+    {
+      "Id": "1",
+      "Discriminator": "User",
+      "Name": "Omar Abdelaziz",
+      "Address": "123 Main St",
+      "City": "Cairo",
+      "UserName": "omar_admin",
+      "NormalizedUserName": "OMAR_ADMIN",
+      "Email": "omar@example.com",
+      "NormalizedEmail": "OMAR@EXAMPLE.COM",
+      "EmailConfirmed": true,
+      "PasswordHash": "hashed_password_1",
+      "SecurityStamp": "security_stamp_1",
+      "ConcurrencyStamp": "concurrency_stamp_1",
+      "PhoneNumber": "+201234567890",
+      "PhoneNumberConfirmed": true,
+      "TwoFactorEnabled": false,
+      "LockoutEnd": null,
+      "LockoutEnabled": true,
+      "AccessFailedCount": 0
+    },
+    {
+      "Id": "2",
+      "Discriminator": "User",
+      "Name": "Layla Mostafa",
+      "Address": "456 Elm St",
+      "City": "Cairo",
+      "UserName": "layla_user",
+      "NormalizedUserName": "LAYLA_USER",
+      "Email": "layla@example.com",
+      "NormalizedEmail": "LAYLA@EXAMPLE.COM",
+      "EmailConfirmed": true,
+      "PasswordHash": "hashed_password_2",
+      "SecurityStamp": "security_stamp_2",
+      "ConcurrencyStamp": "concurrency_stamp_2",
+      "PhoneNumber": "+201098765432",
+      "PhoneNumberConfirmed": true,
+      "TwoFactorEnabled": false,
+      "LockoutEnd": null,
+      "LockoutEnabled": true,
+      "AccessFailedCount": 0
+    }
+  ]
+}

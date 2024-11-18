@@ -1,0 +1,34 @@
+{
+  "Categories": [
+    {
+      "Id": "1",
+      "Name": "Laptops",
+      "Description": "Portable computers for personal and professional use.",
+      "CreatedTime": "2024-01-01T00:00:00Z"
+    },
+    {
+      "Id": "2",
+      "Name": "Smartphones",
+      "Description": "Mobile phones with advanced features.",
+      "CreatedTime": "2024-01-02T00:00:00Z"
+    },
+    {
+      "Id": "3",
+      "Name": "Audio",
+      "Description": "High-quality audio devices.",
+      "CreatedTime": "2024-01-03T00:00:00Z"
+    },
+    {
+      "Id": "4",
+      "Name": "Monitors",
+      "Description": "Displays for computers and gaming.",
+      "CreatedTime": "2024-01-04T00:00:00Z"
+    },
+    {
+      "Id": "5",
+      "Name": "Peripherals",
+      "Description": "Devices that connect to the computer.",
+      "CreatedTime": "2024-01-05T00:00:00Z"
+    }
+  ]
+}

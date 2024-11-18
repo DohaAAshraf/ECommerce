@@ -1,0 +1,16 @@
+{
+  "AspNetRoles": [
+    {
+      "Id": "1",
+      "Name": "Admin",
+      "NormalizedName": "ADMIN",
+      "ConcurrencyStamp": "abc123"
+    },
+    {
+      "Id": "2",
+      "Name": "User",
+      "NormalizedName": "USER",
+      "ConcurrencyStamp": "def456"
+    }
+  ]
+}
